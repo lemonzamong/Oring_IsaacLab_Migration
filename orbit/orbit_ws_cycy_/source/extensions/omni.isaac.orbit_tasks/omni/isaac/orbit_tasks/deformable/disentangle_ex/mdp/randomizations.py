@@ -1,0 +1,1 @@
+#TODO: goal pole distange randomization, dummy step, oring parameter randomization
